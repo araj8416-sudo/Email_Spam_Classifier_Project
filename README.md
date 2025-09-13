@@ -30,6 +30,9 @@ like **Naive Bayes** and **Support Vector Machines (SVM)** to achieve accurate c
 
 ## 📊 Results  
 - Achieved **high accuracy** in detecting spam emails.  
-- SVM performed slightly better than Naive Bayes for text classification.  
+- SVM performed slightly better than Naive Bayes for text classification.
+
+- ## Output Screenshot 
+- ![image alt](https://github.com/araj8416-sudo/Email_Spam_Classifier_Project/blob/8d6aa6698b3d7195200d57bedf111cce376c278a/Email%20spam%20output.PNG)
 
 ## Linedin :- https://www.linkedin.com/in/abhishek-kumar-8a1055376/
